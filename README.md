@@ -1,6 +1,6 @@
 # Academic Story Writing
 
-**Write like a scientist, not like an author defending against an imaginary reviewer.**
+**Write like a scientist: tell a clear scientific story, calibrate claims to evidence, and remove unnecessary defensiveness.**
 
 A **Codex Skill for CS / AI / ML research writing**. Turn research notes into paper-ready prose, strengthen an argument without inventing evidence, or revise only a selected sentence, paragraph, or LaTeX passage.
 
@@ -79,7 +79,7 @@ The workflow preserves two independent choices: **story mode** (`PRESERVE` by de
 | **Draft → prose** | Construct the strongest defensible claim from notes, equations, outlines, and recorded results. |
 | **Local editing** | Polish, clarify, strengthen, condense, expand, or rewrite only the authorized LaTeX/text selection. |
 
-Across these tasks, the Skill checks **claim construction, unjustified claim downgrades, evidence requirements, disclaimers, and novelty**. Every highlighted advantage should serve the paper's central scientific thesis.
+Across these tasks, the Skill checks **claim construction, unjustified claim downgrades, evidence requirements, disclaimers, and novelty**. Its [D1–D10 defensiveness taxonomy](skills/academic-story-writing/references/defensiveness-taxonomy.md) further distinguishes unnecessary disclaimers, hedging, self-deprecation, imaginary reviewer responses, evidence-demand inflation, repetition, related-work novelty retreat, Method apologies, Theory caveat inflation, and uncertainty spillover. This is a context-sensitive, optional diagnostic aid—not a ban on cautious words. Every highlighted advantage should serve the paper's central scientific thesis.
 
 ## Examples
 
@@ -87,6 +87,7 @@ Across these tasks, the Skill checks **claim construction, unjustified claim dow
 - [Method: standard backbone, meaningful formulation](examples/method-writing.md)
 - [Theory: lead with the proved result](examples/theory-writing.md)
 - [Local editing: improve one LaTeX paragraph](examples/local-editing.md)
+- [Defensiveness audit: D1–D10 synthetic examples](examples/defensiveness-audit.md)
 
 All examples are synthetic. The Skill can support scientific writing, but it cannot independently guarantee proof correctness, accurate citations, or sound statistical inference. When the evidence does not justify a proposed claim, it should preserve the strongest supported version and identify the concrete gap.
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Story Writing"
+  short_description: "Scientist-first editing of sentences, passages, or papers"
+  default_prompt: "Use $academic-story-writing. Draft or edit the requested text with a coherent, evidence-grounded scientific story. Remove unnecessary defensiveness while preserving valid scientific boundaries."
