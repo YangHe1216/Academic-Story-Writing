@@ -1,8 +1,7 @@
 # Academic Story Writing
 
-**Write like a scientist: tell a clear scientific story, calibrate claims to evidence, and remove unnecessary defensiveness.**
 
-A **Codex Skill for CS / AI / ML research writing**. Turn research notes into paper-ready prose, strengthen an argument without inventing evidence, or revise only a selected sentence, paragraph, or LaTeX passage.
+A **Codex Skill for CS / AI / ML / STATS research writing**. Turn research notes into paper-ready prose, strengthen an argument without inventing evidence, or revise only a selected sentence, paragraph, or LaTeX passage.
 
 **Scientist-first · Story-driven · Evidence-calibrated**
 
